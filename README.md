@@ -12,7 +12,7 @@
 
 My goal is to work as a Full Stack Developer with a great team and help to create high-quality and useful products
 
-### ${\color{green}I am ...}$ 
+### ${\color{green}I am ...}$
 
 - Fast learner
 - Analytical thinking
@@ -40,6 +40,13 @@ My goal is to work as a Full Stack Developer with a great team and help to creat
 > - [ ] Bootsrap
 
 ---
+| Language   | level    |
+|------------|----------|
+|Ukraine | Free|
+|Russish| Free|
+|Germany| Intermediate|
+|English| Elementary|
+
 
 ### Some useful links :link: :books: :memo:
 
