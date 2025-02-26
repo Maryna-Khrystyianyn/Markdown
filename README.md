@@ -42,12 +42,17 @@ My goal is to work as a Full Stack Developer with a great team and help to creat
 ---
 
 ### Some useful links :link: :books: :memo:
+
 [Here I train typing](https://www.ratatype.de/)
 
 [Here I train typing too](https://www.typingtest.com)
 
 [Und here I train typing too](https://blindtyping.com)
 
-[How the textcolor fits to background](https://coolors.co/contrast-checker/a7ecb7-121518 )
+[How the textcolor fits to background](https://coolors.co/contrast-checker/a7ecb7-121518)
 
-
+---
+<details>
+ <summary> Click here to read the secret</summary>
+You are a goot person
+</details>
