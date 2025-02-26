@@ -12,7 +12,7 @@
 
 My goal is to work as a Full Stack Developer with a great team and help to create high-quality and useful products
 
-### I am ...
+### ${\color{green}I am ...}$ 
 
 - Fast learner
 - Analytical thinking
@@ -25,19 +25,19 @@ My goal is to work as a Full Stack Developer with a great team and help to creat
 
 ### that I will soon be able to use
 
-> VScode
+> - [ ] VScode
 
-> Git/GtHub
+> - [ ] Git/GtHub
 
-> HTML
+> - [ ] HTML
 
-> CSS/SCSS
+> - [ ] CSS/SCSS
 
-> JavaScript
+> - [ ] JavaScript
 
-> React
+> - [ ] React
 
-> Bootsrap
+> - [ ] Bootsrap
 
 ---
 
