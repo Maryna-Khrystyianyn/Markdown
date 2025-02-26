@@ -25,13 +25,13 @@ My goal is to work as a Full Stack Developer with a great team and help to creat
 
 ### that I will soon be able to use
 
-> - [ ] VScode
+> - [x] VScode
 
-> - [ ] Git/GtHub
+> - [x] Git/GtHub
 
-> - [ ] HTML
+> - [x] HTML
 
-> - [ ] CSS/SCSS
+> - [x] CSS/SCSS
 
 > - [ ] JavaScript
 
@@ -40,13 +40,13 @@ My goal is to work as a Full Stack Developer with a great team and help to creat
 > - [ ] Bootsrap
 
 ---
-| Language   | level    |
-|------------|----------|
-|Ukraine | Free|
-|Russish| Free|
-|Germany| Intermediate|
-|English| Elementary|
 
+| Language | level        |
+| -------- | ------------ |
+| Ukraine  | Free         |
+| Russish  | Free         |
+| Germany  | Intermediate |
+| English  | Elementary   |
 
 ### Some useful links :link: :books: :memo:
 
@@ -59,6 +59,7 @@ My goal is to work as a Full Stack Developer with a great team and help to creat
 [How the textcolor fits to background](https://coolors.co/contrast-checker/a7ecb7-121518)
 
 ---
+
 <details>
  <summary> Click here to read the secret</summary>
 You are a goot person
